@@ -25,7 +25,7 @@
     .col-sm-12 {width: 100%;}
 }
 
-
+ 
 @media only screen and (min-width: 600px) {
     .col-xm-1 {width: 8.33%;}
     .col-xm-2 {width: 16.66%;}
